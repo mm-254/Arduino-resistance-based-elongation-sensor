@@ -1,8 +1,6 @@
-//MAS Internship (Summer 2016); Stretch sensor project
 //Reads Analog voltage at two terminals of Wheatstone Bridge (Vc, Vd), Varies Resistance in digital potentiometer, 
 //Reads resistance on digital potentiometer, Calculates Rx when Vc=Vd
-//*Disclaimer- parts of code from other sources
-//Mandira
+//Mandira Marambe
 
 //--------------------------------------------------------INITIATIONS, ASSIGNMENTS & SETUP-----------------------------------------------------//
 
